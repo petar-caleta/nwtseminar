@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://petar123:petar123@nwtseminar.mhmsq.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "divineHZRD"
+}
